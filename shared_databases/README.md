@@ -31,4 +31,7 @@ PDB 70 (32 GB)
 PDB mmCIF (154 GB)
 `/sb/wankowicz_lab/home/aslamaj/databases/pdb_mmcif`
 
+Uniclust30 (24 GB)
+`/sb/wankowicz_lab/home/aslamaj/databases/uniclust30`
+
 ---
